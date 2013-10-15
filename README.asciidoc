@@ -1,4 +1,3 @@
-iui-seed-grails
-===============
+= iui-seed-grails
 
-iUI starter project using Grails for the server-side
+http://www.iui-js.org[iUI] starter project using http://grails.org[Grails] for the server-side.
